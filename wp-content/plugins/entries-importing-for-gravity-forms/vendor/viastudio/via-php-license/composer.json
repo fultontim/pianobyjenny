@@ -1,0 +1,14 @@
+{
+    "name": "viastudio/via-php-license",
+    "description": "via-php-license",
+    "require": {
+        "php": ">=7.0.0",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Via\\PhpLicense\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
